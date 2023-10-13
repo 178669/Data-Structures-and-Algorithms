@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/ECE402C++/starter-code-ece0302/projects/project1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++11 -o CMakeFiles\\bitset-tests.dir\\bitset_test.cpp.obj -c C:\\Users\\zdavi\\OneDrive\\Documents\\ECE402C++\\starter-code-ece0302\\projects\\project1\\bitset_test.cpp",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\ECE402C++\\starter-code-ece0302\\projects\\project1\\bitset_test.cpp"
+},
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/ECE402C++/starter-code-ece0302/projects/project1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++11 -o CMakeFiles\\bitset-tests.dir\\bitset.cpp.obj -c C:\\Users\\zdavi\\OneDrive\\Documents\\ECE402C++\\starter-code-ece0302\\projects\\project1\\bitset.cpp",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\ECE402C++\\starter-code-ece0302\\projects\\project1\\bitset.cpp"
+}
+]

@@ -1,0 +1,21 @@
+Start testing: Apr 09 15:38 Eastern Daylight Time
+----------------------------------------------------------
+1/1 Testing: test-bst
+1/1 Test: test-bst
+Command: "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem08/binary_search_tree/build/test-bst.exe"
+Directory: C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem08/binary_search_tree/build
+"test-bst" start time: Apr 09 15:38 Eastern Daylight Time
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (20 assertions in 6 test cases)
+
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"test-bst" end time: Apr 09 15:38 Eastern Daylight Time
+"test-bst" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 09 15:38 Eastern Daylight Time

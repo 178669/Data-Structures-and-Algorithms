@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20230406-0219-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.25.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="Envy"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22621)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString=""
+	VendorID="Unknown Manufacturer"
+	FamilyID="0"
+	ModelID="0"
+	ProcessorCacheSize="0"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="10"
+	TotalVirtualMemory="25311"
+	TotalPhysicalMemory="16095"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2496"
+	>
+	<Testing>
+		<StartDateTime>Apr 06 10:28 Eastern Daylight Time</StartDateTime>
+		<StartTestTime>1680791285</StartTestTime>
+		<TestList>
+			<Test>./test00-compare</Test>
+			<Test>./test-queue</Test>
+			<Test>./test00</Test>
+			<Test>./test01-compare</Test>
+			<Test>./test02-compare</Test>
+			<Test>./test01</Test>
+			<Test>./test02</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>test00-compare</Name>
+			<Path>.</Path>
+			<FullName>./test00-compare</FullName>
+			<FullCommandLine>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\projects\project4\build\compare.exe "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/tests/output00.png" "output00.png"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0373463</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\projects\project4\build\compare.exe "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/tests/output00.png" "output00.png"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Images identical.
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test-queue</Name>
+			<Path>.</Path>
+			<FullName>./test-queue</FullName>
+			<FullCommandLine>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\projects\project4\build\test-queue.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0365728</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\projects\project4\build\test-queue.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4HLMyVEoSS0uKVYoSCwuTk1R0DA0VQCxikoy8/OKFTLzFAzBChSSE4tTNbm4AErOIyQ=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test00</Name>
+			<Path>.</Path>
+			<FullName>./test00</FullName>
+			<FullCommandLine>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\projects\project4\build\pathfinder.exe "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/tests/maze00.png" "output00.png"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0293605</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\projects\project4\build\pathfinder.exe "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/tests/maze00.png" "output00.png"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Solution Exists
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test01-compare</Name>
+			<Path>.</Path>
+			<FullName>./test01-compare</FullName>
+			<FullCommandLine>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\projects\project4\build\compare.exe "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/tests/output01.png" "output01.png"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.248422</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\projects\project4\build\compare.exe "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/tests/output01.png" "output01.png"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Images identical.
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test02-compare</Name>
+			<Path>.</Path>
+			<FullName>./test02-compare</FullName>
+			<FullCommandLine>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\projects\project4\build\compare.exe "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/tests/output02.png" "output02.png"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.272779</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\projects\project4\build\compare.exe "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/tests/output02.png" "output02.png"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Images identical.
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test01</Name>
+			<Path>.</Path>
+			<FullName>./test01</FullName>
+			<FullCommandLine>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\projects\project4\build\pathfinder.exe "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/tests/maze01.png" "output01.png"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.450497</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\projects\project4\build\pathfinder.exe "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/tests/maze01.png" "output01.png"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>No Solution
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test02</Name>
+			<Path>.</Path>
+			<FullName>./test02</FullName>
+			<FullCommandLine>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\projects\project4\build\pathfinder.exe "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/tests/maze02.png" "output02.png"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.726638</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\projects\project4\build\pathfinder.exe "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/tests/maze02.png" "output02.png"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Solution Exists
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Apr 06 10:28 Eastern Daylight Time</EndDateTime>
+		<EndTestTime>1680791286</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

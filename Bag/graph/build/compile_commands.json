@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem09/graph/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++11 -o CMakeFiles\\test-matrix-graph.dir\\test_matrix_graph.cpp.obj -c C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\programming_problems\\problem09\\graph\\test_matrix_graph.cpp",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\programming_problems\\problem09\\graph\\test_matrix_graph.cpp"
+},
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem09/graph/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++11 -o CMakeFiles\\test-list-graph.dir\\test_list_graph.cpp.obj -c C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\programming_problems\\problem09\\graph\\test_list_graph.cpp",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\programming_problems\\problem09\\graph\\test_list_graph.cpp"
+}
+]

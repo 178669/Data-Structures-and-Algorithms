@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project5/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++11 -o CMakeFiles\\test-frontier-queue.dir\\test_frontier_queue.cpp.obj -c C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project5\\test_frontier_queue.cpp",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project5\\test_frontier_queue.cpp"
+},
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project5/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++11 -o CMakeFiles\\test-solver.dir\\test_solver.cpp.obj -c C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project5\\test_solver.cpp",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project5\\test_solver.cpp"
+},
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project5/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++11 -o CMakeFiles\\test-solver.dir\\puzzle.cpp.obj -c C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project5\\puzzle.cpp",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project5\\puzzle.cpp"
+},
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project5/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++11 -o CMakeFiles\\test-solver.dir\\puzzle_solver.cpp.obj -c C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project5\\puzzle_solver.cpp",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project5\\puzzle_solver.cpp"
+}
+]

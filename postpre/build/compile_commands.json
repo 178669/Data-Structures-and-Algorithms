@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\postpre.dir\\postpre.cpp.obj -c C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\programming_problems\\problem04\\postpre\\postpre.cpp",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\programming_problems\\problem04\\postpre\\postpre.cpp"
+},
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\postpre.dir\\algebraic_expressions.cpp.obj -c C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\programming_problems\\problem04\\postpre\\algebraic_expressions.cpp",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\programming_problems\\problem04\\postpre\\algebraic_expressions.cpp"
+}
+]

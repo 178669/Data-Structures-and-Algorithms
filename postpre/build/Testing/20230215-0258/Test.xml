@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20230215-0258-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.25.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="Envy"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22621)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString=""
+	VendorID="Unknown Manufacturer"
+	FamilyID="0"
+	ModelID="0"
+	ProcessorCacheSize="0"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="10"
+	TotalVirtualMemory="23263"
+	TotalPhysicalMemory="16095"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2496"
+	>
+	<Testing>
+		<StartDateTime>Feb 15 18:46 Eastern Standard Time</StartDateTime>
+		<StartTestTime>1676504793</StartTestTime>
+		<TestList>
+			<Test>./test1</Test>
+			<Test>./test2</Test>
+			<Test>./test3</Test>
+			<Test>./test4</Test>
+			<Test>./test5</Test>
+			<Test>./test6</Test>
+			<Test>./test7</Test>
+			<Test>./test8</Test>
+			<Test>./test9</Test>
+			<Test>./test10</Test>
+			<Test>./test11</Test>
+			<Test>./test12</Test>
+			<Test>./test13</Test>
+			<Test>./test14</Test>
+			<Test>./test15</Test>
+		</TestList>
+		<Test Status="failed">
+			<Name>test1</Name>
+			<Path>.</Path>
+			<FullName>./test1</FullName>
+			<FullCommandLine>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "ab+"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>SEGFAULT</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>3221225477</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0841485</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Fail Reason">
+					<Value>Required regular expression not found. Regex=[(\+)(a)(b)
+]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "ab+"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value></Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="failed">
+			<Name>test2</Name>
+			<Path>.</Path>
+			<FullName>./test2</FullName>
+			<FullCommandLine>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "ab-"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>SEGFAULT</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>3221225477</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.06834</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Fail Reason">
+					<Value>Required regular expression not found. Regex=[(-)(a)(b)
+]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "ab-"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value></Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="failed">
+			<Name>test3</Name>
+			<Path>.</Path>
+			<FullName>./test3</FullName>
+			<FullCommandLine>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "ab*"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>SEGFAULT</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>3221225477</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0646521</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Fail Reason">
+					<Value>Required regular expression not found. Regex=[(\*)(a)(b)
+]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "ab*"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value></Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="failed">
+			<Name>test4</Name>
+			<Path>.</Path>
+			<FullName>./test4</FullName>
+			<FullCommandLine>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "ab/"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>SEGFAULT</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>3221225477</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0604086</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Fail Reason">
+					<Value>Required regular expression not found. Regex=[(\/)(a)(b)
+]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "ab/"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value></Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="failed">
+			<Name>test5</Name>
+			<Path>.</Path>
+			<FullName>./test5</FullName>
+			<FullCommandLine>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "aA+"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>SEGFAULT</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>3221225477</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0569877</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Fail Reason">
+					<Value>Required regular expression not found. Regex=[(\+)(a)(A)
+]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "aA+"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value></Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="failed">
+			<Name>test6</Name>
+			<Path>.</Path>
+			<FullName>./test6</FullName>
+			<FullCommandLine>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "Xi+"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>SEGFAULT</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>3221225477</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0515649</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Fail Reason">
+					<Value>Required regular expression not found. Regex=[(\+)(X)(i)
+]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "Xi+"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value></Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="failed">
+			<Name>test7</Name>
+			<Path>.</Path>
+			<FullName>./test7</FullName>
+			<FullCommandLine>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "RR+"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>SEGFAULT</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>3221225477</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0472656</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Fail Reason">
+					<Value>Required regular expression not found. Regex=[(\+)(R)(R)
+]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "RR+"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value></Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="failed">
+			<Name>test8</Name>
+			<Path>.</Path>
+			<FullName>./test8</FullName>
+			<FullCommandLine>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "qv+"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>SEGFAULT</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>3221225477</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0433534</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Fail Reason">
+					<Value>Required regular expression not found. Regex=[(\+)(q)(v)
+]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "qv+"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value></Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="failed">
+			<Name>test9</Name>
+			<Path>.</Path>
+			<FullName>./test9</FullName>
+			<FullCommandLine>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "AB*CD/+"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>SEGFAULT</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>3221225477</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0398837</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Fail Reason">
+					<Value>Required regular expression not found. Regex=[(\+)(\*)AB(\/)CD
+]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "AB*CD/+"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value></Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="failed">
+			<Name>test10</Name>
+			<Path>.</Path>
+			<FullName>./test10</FullName>
+			<FullCommandLine>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "hr*Rf-+tg-ef/*-"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>SEGFAULT</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>3221225477</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0359676</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Fail Reason">
+					<Value>Required regular expression not found. Regex=[-(\+)(\*)hr-Rf(\*)-tg(\/)ef
+]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "hr*Rf-+tg-ef/*-"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value></Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test11</Name>
+			<Path>.</Path>
+			<FullName>./test11</FullName>
+			<FullCommandLine>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "hr*Rf-+tg-ef/*"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0324625</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "hr*Rf-+tg-ef/*"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Error: input not in postfix format
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test12</Name>
+			<Path>.</Path>
+			<FullName>./test12</FullName>
+			<FullCommandLine>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "hr**Rf-+tg-ef/-"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0283599</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "hr**Rf-+tg-ef/-"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Error: input not in postfix format
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test13</Name>
+			<Path>.</Path>
+			<FullName>./test13</FullName>
+			<FullCommandLine>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "hr*f-+tgef/*-"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0236762</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "hr*f-+tgef/*-"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Error: input not in postfix format
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test14</Name>
+			<Path>.</Path>
+			<FullName>./test14</FullName>
+			<FullCommandLine>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "hr*Rf-tg-ef/*-h"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0194655</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "hr*Rf-tg-ef/*-h"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Error: input not in postfix format
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test15</Name>
+			<Path>.</Path>
+			<FullName>./test15</FullName>
+			<FullCommandLine>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "h*R+f-tg-ef/*"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0131878</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem04\postpre\build\postpre.exe "h*R+f-tg-ef/*"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Error: input not in postfix format
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Feb 15 18:46 Eastern Standard Time</EndDateTime>
+		<EndTestTime>1676504793</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,27 @@
+[
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++11 -o CMakeFiles\\XMLParser-tests.dir\\XMLParser.cpp.obj -c C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project3\\XMLParser.cpp",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project3\\XMLParser.cpp"
+},
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++11 -o CMakeFiles\\XMLParser-tests.dir\\XMLParser_test.cpp.obj -c C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project3\\XMLParser_test.cpp",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project3\\XMLParser_test.cpp"
+},
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++11 -o CMakeFiles\\mainStack.dir\\mainStack.cpp.obj -c C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project3\\mainStack.cpp",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project3\\mainStack.cpp"
+},
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++11 -o CMakeFiles\\mainXMLParser.dir\\XMLParser.cpp.obj -c C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project3\\XMLParser.cpp",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project3\\XMLParser.cpp"
+},
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++11 -o CMakeFiles\\mainXMLParser.dir\\mainXMLParser.cpp.obj -c C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project3\\mainXMLParser.cpp",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project3\\mainXMLParser.cpp"
+}
+]

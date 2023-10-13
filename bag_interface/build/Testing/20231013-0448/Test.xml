@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20231013-0448-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.25.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="Envy"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22621)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString=""
+	VendorID="Unknown Manufacturer"
+	FamilyID="0"
+	ModelID="0"
+	ProcessorCacheSize="0"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="10"
+	TotalVirtualMemory="35001"
+	TotalPhysicalMemory="16095"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2496"
+	>
+	<Testing>
+		<StartDateTime>Oct 13 00:49 Eastern Daylight Time</StartDateTime>
+		<StartTestTime>1697172540</StartTestTime>
+		<TestList>
+			<Test>./test-bag</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>test-bag</Name>
+			<Path>.</Path>
+			<FullName>./test-bag</FullName>
+			<FullCommandLine>"C:\Users\zdavi\OneDrive - University of Pittsburgh\Documents\DataStructuresAndAlgs\bag_interface\build\bag-tests.exe"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0573094</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>"C:\Users\zdavi\OneDrive - University of Pittsburgh\Documents\DataStructuresAndAlgs\bag_interface\build\bag-tests.exe"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4HLMyVEoSS0uKVYoSCwuTk1R0DAyMTZSALGLSjLz84oVMvMUzMFKFJITi1OLNbm4AK96JAI=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Oct 13 00:49 Eastern Daylight Time</EndDateTime>
+		<EndTestTime>1697172540</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

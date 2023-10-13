@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/lib -g -std=gnu++11 -o CMakeFiles\\compare.dir\\compare.cpp.obj -c C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project4\\compare.cpp",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project4\\compare.cpp"
+},
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/lib -g -std=gnu++11 -o CMakeFiles\\test-queue.dir\\test_queue.cpp.obj -c C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project4\\test_queue.cpp",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project4\\test_queue.cpp"
+},
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/lib -g -std=gnu++11 -o CMakeFiles\\pathfinder.dir\\pathfinder.cpp.obj -c C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project4\\pathfinder.cpp",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project4\\pathfinder.cpp"
+},
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I/lib -g -std=gnu++11 -o lib\\CMakeFiles\\image.dir\\image.cpp.obj -c C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project4\\lib\\image.cpp",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project4\\lib\\image.cpp"
+},
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I/lib -g -std=gnu++11 -o lib\\CMakeFiles\\image.dir\\lodepng.cpp.obj -c C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project4\\lib\\lodepng.cpp",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project4\\lib\\lodepng.cpp"
+},
+{
+  "directory": "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I/lib -g -std=gnu++11 -o lib\\CMakeFiles\\test-image.dir\\test_image.cpp.obj -c C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project4\\lib\\test_image.cpp",
+  "file": "C:\\Users\\zdavi\\OneDrive\\Documents\\ECE302C++\\starter-code-ece0302\\projects\\project4\\lib\\test_image.cpp"
+}
+]

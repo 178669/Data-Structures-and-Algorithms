@@ -1,0 +1,5 @@
+# ninja log v5
+5561	9052	7015710278882513	test-sorted-linked-list.exe	af6eec1f44b6f43f
+24	5560	7015710243894463	CMakeFiles/test-sorted-linked-list.dir/test_sorted_linked_list.cpp.obj	24287df4f05ebd1
+3	48	0	CMakeFiles/submission	98d91f9967f121e9
+3	48	0	C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem06/sorted_linked_list/build/CMakeFiles/submission	98d91f9967f121e9

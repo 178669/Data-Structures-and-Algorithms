@@ -1,0 +1,12 @@
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/build/CMakeFiles/compare.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/build/CMakeFiles/test-queue.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/build/CMakeFiles/pathfinder.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/build/CMakeFiles/submission.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/build/CMakeFiles/test.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/build/CMakeFiles/edit_cache.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/build/CMakeFiles/rebuild_cache.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/build/lib/CMakeFiles/image.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/build/lib/CMakeFiles/test-image.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/build/lib/CMakeFiles/test.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/build/lib/CMakeFiles/edit_cache.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/build/lib/CMakeFiles/rebuild_cache.dir

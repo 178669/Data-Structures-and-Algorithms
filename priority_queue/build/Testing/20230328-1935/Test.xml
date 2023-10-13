@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20230328-1935-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.25.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="Envy"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22621)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString=""
+	VendorID="Unknown Manufacturer"
+	FamilyID="0"
+	ModelID="0"
+	ProcessorCacheSize="0"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="10"
+	TotalVirtualMemory="27398"
+	TotalPhysicalMemory="16095"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2496"
+	>
+	<Testing>
+		<StartDateTime>Mar 28 15:47 Eastern Daylight Time</StartDateTime>
+		<StartTestTime>1680032852</StartTestTime>
+		<TestList>
+			<Test>./test-priority-queue</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>test-priority-queue</Name>
+			<Path>.</Path>
+			<FullName>./test-priority-queue</FullName>
+			<FullCommandLine>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem07\priority_queue\build\test-priority-queue.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0125779</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\zdavi\OneDrive\Documents\ECE302C++\starter-code-ece0302\programming_problems\problem07\priority_queue\build\test-priority-queue.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4CpJLS5RSE4sTi22UjBUqAHigsTi4tQULhBZVJKZnweU0FXIy89LVdDl4gIA+UQh8g==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Mar 28 15:47 Eastern Daylight Time</EndDateTime>
+		<EndTestTime>1680032852</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,5 @@
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project2/build/CMakeFiles/FindPalindrome-tests.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project2/build/CMakeFiles/submission.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project2/build/CMakeFiles/test.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project2/build/CMakeFiles/edit_cache.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project2/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+# ninja log v5
+12	53	0	CMakeFiles/submission	63045d7f6a504647
+12	53	0	C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project2/build/CMakeFiles/submission	63045d7f6a504647
+491	3952	6991788135512405	FindPalindrome-tests.exe	4f1a5509dbcf14ad
+11	491	6991788101007443	CMakeFiles/FindPalindrome-tests.dir/FindPalindrome.cpp.obj	77f4672b1cab885c
+24	5432	6991734461746432	CMakeFiles/FindPalindrome-tests.dir/FindPalindrome_test.cpp.obj	634db51d374606d1

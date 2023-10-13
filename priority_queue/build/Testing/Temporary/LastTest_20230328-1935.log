@@ -1,0 +1,22 @@
+Start testing: Mar 28 15:47 Eastern Daylight Time
+----------------------------------------------------------
+1/1 Testing: test-priority-queue
+1/1 Test: test-priority-queue
+Command: "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem07/priority_queue/build/test-priority-queue.exe"
+Directory: C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem07/priority_queue/build
+"test-priority-queue" start time: Mar 28 15:47 Eastern Daylight Time
+Output:
+----------------------------------------------------------
+===============================================================================
+test cases: 1 | 1 passed
+assertions: - none -
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test-priority-queue" end time: Mar 28 15:47 Eastern Daylight Time
+"test-priority-queue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 28 15:47 Eastern Daylight Time

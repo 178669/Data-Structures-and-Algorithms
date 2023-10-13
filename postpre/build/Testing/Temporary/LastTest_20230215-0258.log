@@ -1,0 +1,253 @@
+Start testing: Feb 15 18:46 Eastern Standard Time
+----------------------------------------------------------
+1/15 Testing: test1
+1/15 Test: test1
+Command: "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build/postpre.exe" "ab+"
+Directory: C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build
+"test1" start time: Feb 15 18:46 Eastern Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Fail Reason:
+Required regular expression not found. Regex=[(\+)(a)(b)
+]
+"test1" end time: Feb 15 18:46 Eastern Standard Time
+"test1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/15 Testing: test2
+2/15 Test: test2
+Command: "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build/postpre.exe" "ab-"
+Directory: C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build
+"test2" start time: Feb 15 18:46 Eastern Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Fail Reason:
+Required regular expression not found. Regex=[(-)(a)(b)
+]
+"test2" end time: Feb 15 18:46 Eastern Standard Time
+"test2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/15 Testing: test3
+3/15 Test: test3
+Command: "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build/postpre.exe" "ab*"
+Directory: C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build
+"test3" start time: Feb 15 18:46 Eastern Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Fail Reason:
+Required regular expression not found. Regex=[(\*)(a)(b)
+]
+"test3" end time: Feb 15 18:46 Eastern Standard Time
+"test3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/15 Testing: test4
+4/15 Test: test4
+Command: "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build/postpre.exe" "ab/"
+Directory: C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build
+"test4" start time: Feb 15 18:46 Eastern Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Fail Reason:
+Required regular expression not found. Regex=[(\/)(a)(b)
+]
+"test4" end time: Feb 15 18:46 Eastern Standard Time
+"test4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/15 Testing: test5
+5/15 Test: test5
+Command: "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build/postpre.exe" "aA+"
+Directory: C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build
+"test5" start time: Feb 15 18:46 Eastern Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Fail Reason:
+Required regular expression not found. Regex=[(\+)(a)(A)
+]
+"test5" end time: Feb 15 18:46 Eastern Standard Time
+"test5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/15 Testing: test6
+6/15 Test: test6
+Command: "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build/postpre.exe" "Xi+"
+Directory: C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build
+"test6" start time: Feb 15 18:46 Eastern Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Fail Reason:
+Required regular expression not found. Regex=[(\+)(X)(i)
+]
+"test6" end time: Feb 15 18:46 Eastern Standard Time
+"test6" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/15 Testing: test7
+7/15 Test: test7
+Command: "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build/postpre.exe" "RR+"
+Directory: C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build
+"test7" start time: Feb 15 18:46 Eastern Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Fail Reason:
+Required regular expression not found. Regex=[(\+)(R)(R)
+]
+"test7" end time: Feb 15 18:46 Eastern Standard Time
+"test7" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/15 Testing: test8
+8/15 Test: test8
+Command: "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build/postpre.exe" "qv+"
+Directory: C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build
+"test8" start time: Feb 15 18:46 Eastern Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Fail Reason:
+Required regular expression not found. Regex=[(\+)(q)(v)
+]
+"test8" end time: Feb 15 18:46 Eastern Standard Time
+"test8" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/15 Testing: test9
+9/15 Test: test9
+Command: "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build/postpre.exe" "AB*CD/+"
+Directory: C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build
+"test9" start time: Feb 15 18:46 Eastern Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Fail Reason:
+Required regular expression not found. Regex=[(\+)(\*)AB(\/)CD
+]
+"test9" end time: Feb 15 18:46 Eastern Standard Time
+"test9" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/15 Testing: test10
+10/15 Test: test10
+Command: "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build/postpre.exe" "hr*Rf-+tg-ef/*-"
+Directory: C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build
+"test10" start time: Feb 15 18:46 Eastern Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Fail Reason:
+Required regular expression not found. Regex=[-(\+)(\*)hr-Rf(\*)-tg(\/)ef
+]
+"test10" end time: Feb 15 18:46 Eastern Standard Time
+"test10" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/15 Testing: test11
+11/15 Test: test11
+Command: "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build/postpre.exe" "hr*Rf-+tg-ef/*"
+Directory: C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build
+"test11" start time: Feb 15 18:46 Eastern Standard Time
+Output:
+----------------------------------------------------------
+Error: input not in postfix format
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"test11" end time: Feb 15 18:46 Eastern Standard Time
+"test11" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/15 Testing: test12
+12/15 Test: test12
+Command: "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build/postpre.exe" "hr**Rf-+tg-ef/-"
+Directory: C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build
+"test12" start time: Feb 15 18:46 Eastern Standard Time
+Output:
+----------------------------------------------------------
+Error: input not in postfix format
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"test12" end time: Feb 15 18:46 Eastern Standard Time
+"test12" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/15 Testing: test13
+13/15 Test: test13
+Command: "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build/postpre.exe" "hr*f-+tgef/*-"
+Directory: C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build
+"test13" start time: Feb 15 18:46 Eastern Standard Time
+Output:
+----------------------------------------------------------
+Error: input not in postfix format
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test13" end time: Feb 15 18:46 Eastern Standard Time
+"test13" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/15 Testing: test14
+14/15 Test: test14
+Command: "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build/postpre.exe" "hr*Rf-tg-ef/*-h"
+Directory: C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build
+"test14" start time: Feb 15 18:46 Eastern Standard Time
+Output:
+----------------------------------------------------------
+Error: input not in postfix format
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test14" end time: Feb 15 18:46 Eastern Standard Time
+"test14" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/15 Testing: test15
+15/15 Test: test15
+Command: "C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build/postpre.exe" "h*R+f-tg-ef/*"
+Directory: C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem04/postpre/build
+"test15" start time: Feb 15 18:46 Eastern Standard Time
+Output:
+----------------------------------------------------------
+Error: input not in postfix format
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test15" end time: Feb 15 18:46 Eastern Standard Time
+"test15" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 15 18:46 Eastern Standard Time

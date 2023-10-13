@@ -1,0 +1,7 @@
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project3/build/CMakeFiles/XMLParser-tests.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project3/build/CMakeFiles/mainStack.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project3/build/CMakeFiles/mainXMLParser.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project3/build/CMakeFiles/submission.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project3/build/CMakeFiles/test.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project3/build/CMakeFiles/edit_cache.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project3/build/CMakeFiles/rebuild_cache.dir

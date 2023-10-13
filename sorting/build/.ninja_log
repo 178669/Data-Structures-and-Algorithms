@@ -1,0 +1,13 @@
+# ninja log v5
+3	4620	7006058701308439	CMakeFiles/sort-tests.dir/sort_tests.cpp.obj	b983d8c98148a11c
+4629	7926	7006058734404151	sort-tests.exe	800fd6231ffc6f15
+17	5097	7006058983489532	CMakeFiles/sort-tests.dir/sort_tests.cpp.obj	b983d8c98148a11c
+5097	8378	7006059016413248	sort-tests.exe	800fd6231ffc6f15
+20	4700	7006060273379834	CMakeFiles/sort-tests.dir/sort_tests.cpp.obj	b983d8c98148a11c
+4709	7931	7006060305780996	sort-tests.exe	800fd6231ffc6f15
+22	4364	7006061852091379	CMakeFiles/sort-tests.dir/sort_tests.cpp.obj	b983d8c98148a11c
+4364	7548	7006061883991396	sort-tests.exe	800fd6231ffc6f15
+26	93	0	CMakeFiles/submission	ee459d2cfac8dada
+26	93	0	C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem05/sorting/build/CMakeFiles/submission	ee459d2cfac8dada
+11	42	0	CMakeFiles/submission	ee459d2cfac8dada
+11	42	0	C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem05/sorting/build/CMakeFiles/submission	ee459d2cfac8dada

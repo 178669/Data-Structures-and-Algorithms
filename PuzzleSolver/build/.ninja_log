@@ -1,0 +1,10 @@
+# ninja log v5
+13	66	0	C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project5/build/CMakeFiles/submission	6e0ddcfc27d9ad0a
+13	66	0	CMakeFiles/submission	6e0ddcfc27d9ad0a
+5299	8773	7032330830271750	test-frontier-queue.exe	706df16d7513d198
+13	424	7041568008854518	build.ninja	f0b57dd1d2b5c7ac
+4	5289	7032330795324160	CMakeFiles/test-frontier-queue.dir/test_frontier_queue.cpp.obj	bebb57a0d8a6bfa7
+518	3826	7032346258007244	test-solver.exe	48eb3127314af8d
+23	518	7032346224995203	CMakeFiles/test-solver.dir/puzzle_solver.cpp.obj	b9248a9c7d0220a9
+11	5663	7032329655850448	CMakeFiles/test-solver.dir/test_solver.cpp.obj	cdea54ad0ef01bb3
+16	472	7032329604119506	CMakeFiles/test-solver.dir/puzzle.cpp.obj	4a34778cfe8c032f

@@ -1,0 +1,14 @@
+# ninja log v5
+5	705	7022506791397913	CMakeFiles/compare.dir/compare.cpp.obj	1c333fa7b4f5b1d8
+5134	8551	7024396166261596	test-queue.exe	c947795867feedb
+40	2347	7024943306964219	CMakeFiles/pathfinder.dir/pathfinder.cpp.obj	ff5f43fc4fb33dba
+34	1771	7022506802028827	lib/CMakeFiles/image.dir/lodepng.cpp.obj	326827879cb7d0f4
+26	1982	7022506804154688	lib/CMakeFiles/image.dir/image.cpp.obj	7633ae3c50d90876
+1982	2510	7022506809459086	lib/libimage.a	989e4f1a47931a7f
+2510	2840	7022506812647194	compare.exe	fb9110d2a4105933
+1	32	0	CMakeFiles/submission	eb14ffde43491668
+2348	2810	7024943311562843	pathfinder.exe	3a161867a336b786
+11	6957	7024402917171982	lib/CMakeFiles/test-image.dir/test_image.cpp.obj	23ca0b73f8c8f8bd
+6957	12850	7024402976210462	lib/test-image.exe	50183e96f0cf0cfc
+4	5133	7024396132008363	CMakeFiles/test-queue.dir/test_queue.cpp.obj	4dfed49876d8ec92
+1	32	0	C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project4/build/CMakeFiles/submission	eb14ffde43491668

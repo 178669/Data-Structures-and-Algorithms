@@ -1,0 +1,14 @@
+# ninja log v5
+27	153	0	CMakeFiles/submission	ba2701e932ac6e11
+27	153	0	C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project3/build/CMakeFiles/submission	ba2701e932ac6e11
+24	410	7009586066294245	CMakeFiles/mainXMLParser.dir/XMLParser.cpp.obj	8b6301658e1b9a51
+22	402	7008039918039936	CMakeFiles/mainStack.dir/mainStack.cpp.obj	91e8d4a709c2383a
+52	7716	7009585247399549	CMakeFiles/XMLParser-tests.dir/XMLParser_test.cpp.obj	c6ae708e75695b38
+60	474	7009585175169446	CMakeFiles/mainXMLParser.dir/mainXMLParser.cpp.obj	c741308aa758c740
+20	420	7009586066374274	CMakeFiles/XMLParser-tests.dir/XMLParser.cpp.obj	baafd66a8a8f7e41
+411	508	7009586067228286	mainXMLParser.exe	99ded760688cc00
+27	171	7008040695474345	mainStack.exe	1b9c75d7d9a26b6f
+420	4121	7009586103320316	XMLParser-tests.exe	c628e9cd45c7e2db
+19	894	7012395140069639	CMakeFiles/XMLParser-tests.dir/XMLParser.cpp.obj	baafd66a8a8f7e41
+25	13162	7012395262495935	CMakeFiles/XMLParser-tests.dir/XMLParser_test.cpp.obj	c6ae708e75695b38
+13163	19964	7012395330525034	XMLParser-tests.exe	c628e9cd45c7e2db

@@ -1,0 +1,13 @@
+# ninja log v5
+4	5624	7035024829295496	CMakeFiles/test-database.dir/test_database.cpp.obj	408b57f4eb8e71d1
+5	5612	7035026420060135	CMakeFiles/test-database.dir/test_database.cpp.obj	408b57f4eb8e71d1
+4	4808	7035030723765530	CMakeFiles/test-database.dir/test_database.cpp.obj	408b57f4eb8e71d1
+4	5304	7035033635081412	CMakeFiles/test-database.dir/test_database.cpp.obj	408b57f4eb8e71d1
+5305	8934	7035033671431246	test-database.exe	52ccef6a458d927c
+5	5051	7035035373943451	CMakeFiles/test-database.dir/test_database.cpp.obj	408b57f4eb8e71d1
+5	5222	7035037981319912	CMakeFiles/test-database.dir/test_database.cpp.obj	408b57f4eb8e71d1
+5223	8824	7035038017428918	test-database.exe	52ccef6a458d927c
+4	6174	7035039381456476	CMakeFiles/test-database.dir/test_database.cpp.obj	408b57f4eb8e71d1
+6176	10660	7035039426408022	test-database.exe	52ccef6a458d927c
+20	74	0	CMakeFiles/submission	6e1e74cc8d2f9ab0
+20	74	0	C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/bonus/build/CMakeFiles/submission	6e1e74cc8d2f9ab0

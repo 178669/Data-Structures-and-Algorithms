@@ -1,0 +1,7 @@
+# ninja log v5
+16	58	0	C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/programming_problems/problem03/lists/build/CMakeFiles/submission	f960725a21ac9bfe
+16	58	0	CMakeFiles/submission	f960725a21ac9bfe
+4641	7838	6980232016568792	test-array-list.exe	1fe0186166020ad0
+5	4640	6980231984539609	CMakeFiles/test-array-list.dir/test_array_list.cpp.obj	339641c0befe027
+4881	8157	6980235716115616	test-linked-list.exe	e99640b411a81ea5
+19	4880	6980235683279176	CMakeFiles/test-linked-list.dir/test_linked_list.cpp.obj	4d76ce536b528257

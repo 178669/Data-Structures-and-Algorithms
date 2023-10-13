@@ -1,0 +1,21 @@
+Start testing: Oct 13 00:49 Eastern Daylight Time
+----------------------------------------------------------
+1/1 Testing: test-bag
+1/1 Test: test-bag
+Command: "C:/Users/zdavi/OneDrive - University of Pittsburgh/Documents/DataStructuresAndAlgs/bag_interface/build/bag-tests.exe"
+Directory: C:/Users/zdavi/OneDrive - University of Pittsburgh/Documents/DataStructuresAndAlgs/bag_interface/build
+"test-bag" start time: Oct 13 00:49 Eastern Daylight Time
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (2432 assertions in 7 test cases)
+
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"test-bag" end time: Oct 13 00:49 Eastern Daylight Time
+"test-bag" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 13 00:49 Eastern Daylight Time

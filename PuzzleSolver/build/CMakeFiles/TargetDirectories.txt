@@ -1,0 +1,6 @@
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project5/build/CMakeFiles/test-frontier-queue.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project5/build/CMakeFiles/test-solver.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project5/build/CMakeFiles/submission.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project5/build/CMakeFiles/test.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project5/build/CMakeFiles/edit_cache.dir
+C:/Users/zdavi/OneDrive/Documents/ECE302C++/starter-code-ece0302/projects/project5/build/CMakeFiles/rebuild_cache.dir
